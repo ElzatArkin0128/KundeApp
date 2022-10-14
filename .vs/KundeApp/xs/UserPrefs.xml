@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{3783D8D0-1743-4B32-8C37-0C8034152110}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Kunde.cs">
+    <Files>
+      <File FileName="Models/Kunde.cs" Line="5" Column="6" />
+      <File FileName="Startup.cs" Line="31" Column="34" />
+      <File FileName="Properties/launchSettings.json" Line="14" Column="33" />
+      <File FileName="Controllers/KundeController.cs" Line="32" Column="6" />
+      <File FileName="wwwroot/js/index.js" Line="20" Column="47" />
+      <File FileName="wwwroot/index.html" Line="8" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp" expanded="True">
+            <Node name="KundeApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Kunde.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KundeApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

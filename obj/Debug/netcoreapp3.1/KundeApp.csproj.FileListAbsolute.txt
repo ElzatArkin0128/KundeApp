@@ -1,0 +1,15 @@
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.csproj.AssemblyReference.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.AssemblyInfoInputs.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.AssemblyInfo.cs
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.csproj.CoreCompileInputs.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/bin/Debug/netcoreapp3.1/KundeApp
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/bin/Debug/netcoreapp3.1/KundeApp.dll
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/bin/Debug/netcoreapp3.1/KundeApp.pdb
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp.StaticWebAssets.Manifest.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.RazorTargetAssemblyInfo.cache
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.dll
+/Users/elzatarkin/Dropbox/3-år/WebApp/KundeApp/obj/Debug/netcoreapp3.1/KundeApp.pdb
